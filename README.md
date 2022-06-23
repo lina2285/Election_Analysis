@@ -84,11 +84,15 @@ To accomplish the task, VS Code was used to pull the information below is the br
 
 ### Candidate vote count and percentage
 
-![PyPoll steps 01](https://github.com/lina2285/Election_Analysis/blob/main/PyPoll%20steps%204.png)
+![PyPoll steps 04](https://github.com/lina2285/Election_Analysis/blob/main/PyPoll%20steps%204.png)
 
 ### Winning candidate of election
 
-
+![PyPoll steps 05](https://github.com/lina2285/Election_Analysis/blob/main/PyPoll%20steps%205.png)
 
 
 ## Challenge Summary
+
+This script was very succesful in analyzing and gathering key information for the election results file.  Based on the outcome of this project, it is safe to say that this script can be used for other election reports. Some examples of posible options are:
+  - Larger elections can be an option, for example a presidential election. We can gather candidate information by state       and voter counts instead of by county. 
+  - Another option can be smaller elections, such as a school election where instead of county, we can inlcude grade level     of the voters. 
