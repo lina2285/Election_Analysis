@@ -39,6 +39,7 @@ The analysis of the election shows that:
     - Arapahoe
   
   - Number of votes per county were:
+  
     - Jeffereson: **10.5% (38,855)**
     - Denver: **82.8% (306,055)**
     - Arapahoe: **6.7% (24,801)** 
@@ -65,7 +66,14 @@ In order to help Seth and Tom complete the election analysis, we gathered inform
 ### Total Votes
   - Per the below steps on VS code, there was a total of **360,711** votes.
 ![PyPoll steps 01](https://github.com/lina2285/Election_Analysis/blob/main/PyPoll%20steps%201.png)
-### Total Votes per county
+### Total Votes per county in percentage and count
+  - Number of votes per county were:
+  
+    - Jeffereson: **10.5% (38,855)**
+    - Denver: **82.8% (306,055)**
+    - Arapahoe: **6.7% (24,801)** 
+
+![PyPoll steps 02](
 
 
 
