@@ -5,12 +5,15 @@ The purpose of this project is conduct an election audit for the Colorado Board 
 The result of the congressional election Audit will determine the following points: 
 
   1. The total number of votes cast.
-  2. A complete list of candidates who received votes. 
-  3. The total number of votes each candidate received.
-  4. The percentage of votes each candidate won. 
-  5. The winner of the election based on pupular vote. 
-  6. The number of votes per county.
-  7. The largest county vote turnout.
+  2. A complete list of candidates who received votes.
+  3. A complete list of counties with votes. 
+  4. The largest county vote turnout.
+  5. The number of votes per county.
+  6. The total number of votes each candidate received.
+  7. The percentage of votes each candidate won. 
+  8. The winner of the election based on pupular vote. 
+  
+  
 
 ## Resources Used to Complete the Analysis
 
@@ -35,6 +38,11 @@ The analysis of the election shows that:
     - Denver
     - Arapahoe
   
+  - Number of votes per county were:
+    - Jeffereson: **10.5% (38,855)**
+    - Denver: **82.8% (306,055)**
+    - Arapahoe: **6.7% (24,801)** 
+    
   - The largest county Turnout was: **Denver**
   
   - The Detail of each Candidate result was:
@@ -45,7 +53,7 @@ The analysis of the election shows that:
    
   - The winner of the election was:
   
-    - **Diana DeGetter**, who received 73.8% of the vote and 272,892 number of votes. 
+    - **Diana DeGetter**, who received **73.8%** of the votes and **272,892** number of votes. 
 
 ## Challenge Overview
 
