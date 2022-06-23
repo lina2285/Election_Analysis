@@ -84,6 +84,9 @@ To accomplish the task, VS Code was used to pull the information below is the br
 
 ### Candidate vote count and percentage
 
+![PyPoll steps 01](https://github.com/lina2285/Election_Analysis/blob/main/PyPoll%20steps%204.png)
+
+### Winning candidate of election
 
 
 
