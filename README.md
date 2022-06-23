@@ -11,7 +11,7 @@ The result of the congressional election Audit will determine the following poin
   5. The winner of the election based on pupular vote. 
 
 ## Resources Used to Complete the Analysis
-  * Data Source: election_results.csv
+  * Data Source: [election_results.csv](https://github.com/lina2285/Election_Analysis/blob/main/Resources/election_results.csv)
   * Software: Python 3.10, Visual Studio Code, 1.68.1
 
 ## Summary
