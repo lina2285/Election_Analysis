@@ -59,8 +59,14 @@ The analysis of the election shows that:
 
 ## Challenge Overview
 
-In order to help Seth and Tom complete the election analysis, we gathered informaiton per county, candidate, percentage of votes and count of votes.  To accomplish the task, in the software of VS code the following code was entered:
+In order to help Seth and Tom complete the election analysis, we gathered informaiton per county, candidate, percentage of votes and count of votes.  To accomplish the task, VS Code was used to pull the information
+
+## Results
+### Total Votes
+  - Per the below steps on VS code, there was a total of **360,711** votes.
 ![PyPoll steps 01](https://github.com/lina2285/Election_Analysis/blob/main/PyPoll%20steps%201.png)
+### Total Votes per county
+
 
 
 ## Challenge Summary
