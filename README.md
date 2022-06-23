@@ -80,7 +80,7 @@ To accomplish the task, VS Code was used to pull the information below is the br
 
 ### County with largest number of votes
 
-![PyPoll steps 03](![image](https://user-images.githubusercontent.com/105125722/175204084-2d06d854-86ce-4094-b0aa-a845a2489449.png)
+![PyPoll steps 03](https://user-images.githubusercontent.com/105125722/175204084-2d06d854-86ce-4094-b0aa-a845a2489449.png)
 
 ### Candidate vote count and percentage
 
