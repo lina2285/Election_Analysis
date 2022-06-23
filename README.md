@@ -59,4 +59,8 @@ The analysis of the election shows that:
 
 ## Challenge Overview
 
+In order to help Seth and Tom complete the election analysis, we gathered informaiton per county, candidate, percentage of votes and count of votes.  To accomplish the task, in the software of VS code the following code was entered:
+
+
+
 ## Challenge Summary
