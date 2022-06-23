@@ -60,7 +60,7 @@ The analysis of the election shows that:
 ## Challenge Overview
 
 In order to help Seth and Tom complete the election analysis, we gathered informaiton per county, candidate, percentage of votes and count of votes.  To accomplish the task, in the software of VS code the following code was entered:
-
+![PyPoll steps 01](https://github.com/lina2285/Election_Analysis/blob/main/PyPoll%20steps%201.png)
 
 
 ## Challenge Summary
