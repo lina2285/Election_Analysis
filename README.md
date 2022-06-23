@@ -14,18 +14,18 @@ The result of the congressional election Audit will determine the following poin
   * Data Source: [election_results.csv](https://github.com/lina2285/Election_Analysis/blob/main/Resources/election_results.csv)
   * Software: Python 3.10, Visual Studio Code, 1.68.1
 
-## Summary
+## Election Audit Summary
 The analysis of the election shows that:
-  * There were 369,711 votes cast in the election.
-  * The candidates were:
-      * Charles Casper Stockham
-      * Diana DeGette
-      * Raymon Anthony Doane
-  * The Candidate results were:
-      * Charles Casper Stockham: 23.0% (85,213)
-      * Diana DeGette: 73.8% (272,892)
-      * Raymon Anthony Doane: 3.1% (11,606) 
-  * The winner of the election was:
+  ** There were 369,711 votes cast in the election.
+  ** The candidates were:
+  - Charles Casper Stockham
+  - Diana DeGette
+  - Raymon Anthony Doane
+  ** The Detail of each Candidate result was:
+  - Charles Casper Stockham: 23.0% (85,213)
+  - Diana DeGette: 73.8% (272,892)
+  - Raymon Anthony Doane: 3.1% (11,606) 
+  ** The winner of the election was:
       * Diana DeGetter, who received 73.8% of the vote and 272,892 number of votes. 
 
 ## Challenge Overview
