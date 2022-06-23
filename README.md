@@ -55,7 +55,7 @@ The analysis of the election shows that:
   
     - **Diana DeGetter**, who received **73.8%** of the votes and **272,892** number of votes.
 
-![election analysis screenshot] https://github.com/lina2285/Election_Analysis/blob/main/screenshot%20of%20election%20results.png 
+![election analysis screenshot](https://github.com/lina2285/Election_Analysis/blob/main/screenshot%20of%20election%20results.png)
 
 ## Challenge Overview
 
